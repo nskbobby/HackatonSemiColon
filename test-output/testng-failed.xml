@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SemicolonProj(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <exclude name="Regression"/>
+        <exclude name="invalid"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TestcasesSemiColon">
+        <methods>
+          <include name="ProceedWithoutCarNumber"/>
+          <include name="FetchHealthInsuranceListItems"/>
+          <include name="openUrl"/>
+          <include name="checkPlaceHolderText"/>
+          <include name="navigatetoTravelInsurance"/>
+          <include name="getQuotes"/>
+          <include name="clickCarInsurance"/>
+          <include name="fillFormCarInsurance"/>
+          <include name="invokeBrowser"/>
+          <include name="proceed"/>
+          <include name="PrintHotelPriceDetails"/>
+          <include name="selectRto"/>
+          <include name="sortPriceLowtoHigh"/>
+          <include name="FetchError"/>
+          <include name="selectStudentFormTab"/>
+          <include name="setTravelDates"/>
+          <include name="selectCarBrand"/>
+          <include name="selectCarModel"/>
+          <include name="travelDetails"/>
+          <include name="selectCity"/>
+          <include name="selectCarVarient"/>
+          <include name="selectCarYear"/>
+          <include name="HoverToDropDown"/>
+          <include name="PersonalTravelDetails"/>
+          <include name="selectFuelType"/>
+        </methods>
+      </class> <!-- testCases.TestcasesSemiColon -->
+    </classes>
+  </test> <!-- SemicolonProj(failed) -->
+</suite> <!-- Failed suite [Suite] -->

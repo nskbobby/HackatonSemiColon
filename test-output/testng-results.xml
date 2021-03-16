@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="43" passed="43" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-15T19:31:08 IST" name="Default suite" finished-at="2021-03-15T19:36:13 IST" duration-ms="305333">
+    <groups>
+      <group name="invalid">
+        <method signature="TestcasesSemiColon.NullvaluesTravelForm()[pri:32, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullvaluesTravelForm" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidAge()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidAge" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.NullDates()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullDates" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.NullGender()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullGender" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.NullName()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullName" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidName()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidName" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidMobileNo()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidMobileNo" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidGmail()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidGmail" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.AllNullValuesPersonalForm()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="AllNullValuesPersonalForm" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.invalidphoneCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="invalidphoneCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.invalidMailCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="invalidMailCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.invalidnameCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="invalidnameCarInsurance" class="testCases.TestcasesSemiColon"/>
+      </group> <!-- invalid -->
+      <group name="smoke">
+        <method signature="TestcasesSemiColon.FetchError()[pri:27, instance:testCases.TestcasesSemiColon@6cd24612]" name="FetchError" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.FetchHealthInsuranceListItems()[pri:30, instance:testCases.TestcasesSemiColon@6cd24612]" name="FetchHealthInsuranceListItems" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.HoverToDropDown()[pri:29, instance:testCases.TestcasesSemiColon@6cd24612]" name="HoverToDropDown" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.NullDates()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullDates" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.NullGender()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullGender" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.NullName()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="NullName" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidName()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidName" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidMobileNo()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidMobileNo" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.InvalidGmail()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="InvalidGmail" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.AllNullValuesPersonalForm()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="AllNullValuesPersonalForm" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.PersonalTravelDetails()[pri:7, instance:testCases.TestcasesSemiColon@6cd24612]" name="PersonalTravelDetails" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.PrintHotelPriceDetails()[pri:13, instance:testCases.TestcasesSemiColon@6cd24612]" name="PrintHotelPriceDetails" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.ProceedWithoutCarNumber()[pri:17, instance:testCases.TestcasesSemiColon@6cd24612]" name="ProceedWithoutCarNumber" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.Quit1()[pri:31, instance:testCases.TestcasesSemiColon@6cd24612]" name="Quit1" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.checkPlaceHolderText()[pri:3, instance:testCases.TestcasesSemiColon@6cd24612]" name="checkPlaceHolderText" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.clickCarInsurance()[pri:15, instance:testCases.TestcasesSemiColon@6cd24612]" name="clickCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.fillFormCarInsurance()[pri:26, instance:testCases.TestcasesSemiColon@6cd24612]" name="fillFormCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.getQuotes()[pri:8, instance:testCases.TestcasesSemiColon@6cd24612]" name="getQuotes" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.invalidphoneCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="invalidphoneCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.invalidMailCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="invalidMailCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.invalidnameCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" name="invalidnameCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.navigateToHome()[pri:14, instance:testCases.TestcasesSemiColon@6cd24612]" name="navigateToHome" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.navigateToHomeFromCarInsurance()[pri:28, instance:testCases.TestcasesSemiColon@6cd24612]" name="navigateToHomeFromCarInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.navigatetoTravelInsurance()[pri:1, instance:testCases.TestcasesSemiColon@6cd24612]" name="navigatetoTravelInsurance" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.proceed()[pri:6, instance:testCases.TestcasesSemiColon@6cd24612]" name="proceed" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectCarBrand()[pri:21, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectCarBrand" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectCarModel()[pri:22, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectCarModel" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectCarYear()[pri:25, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectCarYear" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectFuelType()[pri:23, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectFuelType" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectRto()[pri:20, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectRto" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectStudentFormTab()[pri:2, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectStudentFormTab" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.setTravelDates()[pri:5, instance:testCases.TestcasesSemiColon@6cd24612]" name="setTravelDates" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.sortPriceLowtoHigh()[pri:9, instance:testCases.TestcasesSemiColon@6cd24612]" name="sortPriceLowtoHigh" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.travelDetails()[pri:4, instance:testCases.TestcasesSemiColon@6cd24612]" name="travelDetails" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectCarVarient()[pri:24, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectCarVarient" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.selectCity()[pri:19, instance:testCases.TestcasesSemiColon@6cd24612]" name="selectCity" class="testCases.TestcasesSemiColon"/>
+      </group> <!-- smoke -->
+      <group name="Regression">
+        <method signature="TestcasesSemiColon.BrandNewCarLink()[pri:16, instance:testCases.TestcasesSemiColon@6cd24612]" name="BrandNewCarLink" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.SearchBox()[pri:18, instance:testCases.TestcasesSemiColon@6cd24612]" name="SearchBox" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.verifyDestination()[pri:11, instance:testCases.TestcasesSemiColon@6cd24612]" name="verifyDestination" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.verifyResultsForStudent()[pri:12, instance:testCases.TestcasesSemiColon@6cd24612]" name="verifyResultsForStudent" class="testCases.TestcasesSemiColon"/>
+        <method signature="TestcasesSemiColon.verifystudentAge()[pri:10, instance:testCases.TestcasesSemiColon@6cd24612]" name="verifystudentAge" class="testCases.TestcasesSemiColon"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2021-03-15T19:31:08 IST" name="Default test" finished-at="2021-03-15T19:36:13 IST" duration-ms="305333">
+      <class name="testCases.TestcasesSemiColon">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:30:12 IST" name="invokeBrowser" finished-at="2021-03-15T19:30:43 IST" duration-ms="31256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:30:43 IST" name="openUrl" finished-at="2021-03-15T19:31:08 IST" depends-on-methods="testCases.TestcasesSemiColon.invokeBrowser" duration-ms="24526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="navigatetoTravelInsurance()[pri:1, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:08 IST" name="navigatetoTravelInsurance" finished-at="2021-03-15T19:31:25 IST" duration-ms="16478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoTravelInsurance -->
+        <test-method signature="selectStudentFormTab()[pri:2, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:25 IST" name="selectStudentFormTab" finished-at="2021-03-15T19:31:26 IST" duration-ms="1614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectStudentFormTab -->
+        <test-method signature="checkPlaceHolderText()[pri:3, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:26 IST" name="checkPlaceHolderText" finished-at="2021-03-15T19:31:27 IST" duration-ms="971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPlaceHolderText -->
+        <test-method signature="travelDetails()[pri:4, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:27 IST" name="travelDetails" finished-at="2021-03-15T19:31:30 IST" duration-ms="2633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelDetails -->
+        <test-method signature="setTravelDates()[pri:5, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:30 IST" name="setTravelDates" finished-at="2021-03-15T19:31:34 IST" duration-ms="3760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTravelDates -->
+        <test-method signature="proceed()[pri:6, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:34 IST" name="proceed" finished-at="2021-03-15T19:31:35 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceed -->
+        <test-method signature="PersonalTravelDetails()[pri:7, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:35 IST" name="PersonalTravelDetails" finished-at="2021-03-15T19:31:37 IST" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalTravelDetails -->
+        <test-method signature="getQuotes()[pri:8, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:37 IST" name="getQuotes" finished-at="2021-03-15T19:31:38 IST" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getQuotes -->
+        <test-method signature="sortPriceLowtoHigh()[pri:9, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:38 IST" name="sortPriceLowtoHigh" finished-at="2021-03-15T19:31:50 IST" duration-ms="11972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPriceLowtoHigh -->
+        <test-method signature="verifystudentAge()[pri:10, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:50 IST" name="verifystudentAge" finished-at="2021-03-15T19:31:51 IST" duration-ms="1075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifystudentAge -->
+        <test-method signature="verifyDestination()[pri:11, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:51 IST" name="verifyDestination" finished-at="2021-03-15T19:31:52 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDestination -->
+        <test-method signature="verifyResultsForStudent()[pri:12, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:52 IST" name="verifyResultsForStudent" finished-at="2021-03-15T19:31:52 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResultsForStudent -->
+        <test-method signature="PrintHotelPriceDetails()[pri:13, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:52 IST" name="PrintHotelPriceDetails" finished-at="2021-03-15T19:31:53 IST" duration-ms="774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintHotelPriceDetails -->
+        <test-method signature="navigateToHome()[pri:14, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:53 IST" name="navigateToHome" finished-at="2021-03-15T19:31:57 IST" duration-ms="4596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHome -->
+        <test-method signature="clickCarInsurance()[pri:15, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:57 IST" name="clickCarInsurance" finished-at="2021-03-15T19:31:58 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCarInsurance -->
+        <test-method signature="BrandNewCarLink()[pri:16, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:31:58 IST" name="BrandNewCarLink" finished-at="2021-03-15T19:32:01 IST" duration-ms="2370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrandNewCarLink -->
+        <test-method signature="ProceedWithoutCarNumber()[pri:17, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:01 IST" name="ProceedWithoutCarNumber" finished-at="2021-03-15T19:32:04 IST" duration-ms="3087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProceedWithoutCarNumber -->
+        <test-method signature="SearchBox()[pri:18, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:04 IST" name="SearchBox" finished-at="2021-03-15T19:32:04 IST" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBox -->
+        <test-method signature="selectCity()[pri:19, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:04 IST" name="selectCity" finished-at="2021-03-15T19:32:05 IST" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCity -->
+        <test-method signature="selectRto()[pri:20, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:05 IST" name="selectRto" finished-at="2021-03-15T19:32:06 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRto -->
+        <test-method signature="selectCarBrand()[pri:21, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:06 IST" name="selectCarBrand" finished-at="2021-03-15T19:32:07 IST" duration-ms="1338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCarBrand -->
+        <test-method signature="selectCarModel()[pri:22, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:07 IST" name="selectCarModel" finished-at="2021-03-15T19:32:08 IST" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCarModel -->
+        <test-method signature="selectFuelType()[pri:23, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:08 IST" name="selectFuelType" finished-at="2021-03-15T19:32:09 IST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFuelType -->
+        <test-method signature="selectCarVarient()[pri:24, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:09 IST" name="selectCarVarient" finished-at="2021-03-15T19:32:10 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCarVarient -->
+        <test-method signature="selectCarYear()[pri:25, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:10 IST" name="selectCarYear" finished-at="2021-03-15T19:32:11 IST" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCarYear -->
+        <test-method signature="fillFormCarInsurance()[pri:26, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:11 IST" name="fillFormCarInsurance" finished-at="2021-03-15T19:32:15 IST" duration-ms="3547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormCarInsurance -->
+        <test-method signature="FetchError()[pri:27, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:15 IST" name="FetchError" finished-at="2021-03-15T19:32:17 IST" duration-ms="2239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FetchError -->
+        <test-method signature="navigateToHomeFromCarInsurance()[pri:28, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:17 IST" name="navigateToHomeFromCarInsurance" finished-at="2021-03-15T19:32:21 IST" duration-ms="4036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomeFromCarInsurance -->
+        <test-method signature="HoverToDropDown()[pri:29, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:21 IST" name="HoverToDropDown" finished-at="2021-03-15T19:32:22 IST" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HoverToDropDown -->
+        <test-method signature="FetchHealthInsuranceListItems()[pri:30, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:22 IST" name="FetchHealthInsuranceListItems" finished-at="2021-03-15T19:32:24 IST" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FetchHealthInsuranceListItems -->
+        <test-method signature="Quit1()[pri:31, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:24 IST" name="Quit1" finished-at="2021-03-15T19:32:30 IST" duration-ms="5936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit1 -->
+        <test-method signature="NullvaluesTravelForm()[pri:32, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:32:30 IST" name="NullvaluesTravelForm" finished-at="2021-03-15T19:33:06 IST" duration-ms="35848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NullvaluesTravelForm -->
+        <test-method signature="InvalidAge()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:33:06 IST" name="InvalidAge" finished-at="2021-03-15T19:33:21 IST" depends-on-methods="testCases.TestcasesSemiColon.NullvaluesTravelForm" duration-ms="15422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidAge -->
+        <test-method signature="NullDates()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:33:21 IST" name="NullDates" finished-at="2021-03-15T19:33:36 IST" depends-on-methods="testCases.TestcasesSemiColon.InvalidAge" duration-ms="14883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NullDates -->
+        <test-method signature="NullGender()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:33:36 IST" name="NullGender" finished-at="2021-03-15T19:33:53 IST" depends-on-methods="testCases.TestcasesSemiColon.NullDates" duration-ms="17089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NullGender -->
+        <test-method signature="NullName()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:33:53 IST" name="NullName" finished-at="2021-03-15T19:34:10 IST" depends-on-methods="testCases.TestcasesSemiColon.NullGender" duration-ms="17512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NullName -->
+        <test-method signature="InvalidName()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:34:10 IST" name="InvalidName" finished-at="2021-03-15T19:34:30 IST" depends-on-methods="testCases.TestcasesSemiColon.NullName" duration-ms="19760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidName -->
+        <test-method signature="InvalidMobileNo()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:34:30 IST" name="InvalidMobileNo" finished-at="2021-03-15T19:34:50 IST" depends-on-methods="testCases.TestcasesSemiColon.InvalidName" duration-ms="19408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidMobileNo -->
+        <test-method signature="InvalidGmail()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:34:50 IST" name="InvalidGmail" finished-at="2021-03-15T19:35:10 IST" depends-on-methods="testCases.TestcasesSemiColon.InvalidMobileNo" duration-ms="20323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidGmail -->
+        <test-method signature="AllNullValuesPersonalForm()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:35:10 IST" name="AllNullValuesPersonalForm" finished-at="2021-03-15T19:35:25 IST" depends-on-methods="testCases.TestcasesSemiColon.InvalidGmail" duration-ms="14965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllNullValuesPersonalForm -->
+        <test-method signature="invalidphoneCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:35:25 IST" name="invalidphoneCarInsurance" finished-at="2021-03-15T19:35:42 IST" depends-on-methods="testCases.TestcasesSemiColon.AllNullValuesPersonalForm" duration-ms="16758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidphoneCarInsurance -->
+        <test-method signature="invalidMailCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:35:42 IST" name="invalidMailCarInsurance" finished-at="2021-03-15T19:35:57 IST" depends-on-methods="testCases.TestcasesSemiColon.invalidphoneCarInsurance" duration-ms="15034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidMailCarInsurance -->
+        <test-method signature="invalidnameCarInsurance()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:35:57 IST" name="invalidnameCarInsurance" finished-at="2021-03-15T19:36:12 IST" depends-on-methods="testCases.TestcasesSemiColon.invalidMailCarInsurance" duration-ms="15444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidnameCarInsurance -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:36:12 IST" name="endReport" finished-at="2021-03-15T19:36:13 IST" duration-ms="1164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:testCases.TestcasesSemiColon@6cd24612]" started-at="2021-03-15T19:36:14 IST" name="Quit" finished-at="2021-03-15T19:36:18 IST" duration-ms="4655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- testCases.TestcasesSemiColon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
